@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Saad
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development, AI, Machine Learning
 - 🌱 I’m currently studying B(SE) from CUST
-- 💞️ I’m looking to collaborate on any kind of Web Development Project
+- 💞️ I’m looking to collaborate on any kind of Web Development, AI, Machine Learning Projects
 - 📫 How to reach me? Contact me: saaddyy57@gmail.com 
 
 <!---
